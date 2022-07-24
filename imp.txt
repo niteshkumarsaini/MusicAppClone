@@ -1,0 +1,16 @@
+ let dur;
+  dur=element.SongDuration;
+
+
+   totalDURATION.innerHTML=dur;
+
+
+
+
+        slash.style.opacity='1';
+
+parseInt(audioFile.currentTime)
+
+
+
+   2
